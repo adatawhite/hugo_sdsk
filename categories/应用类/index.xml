@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>应用类 on 羊毛社区</title>
-        <link>https://2060.net.cn/categories/%E5%BA%94%E7%94%A8%E7%B1%BB/</link>
+        <link>http://localhost:1313/categories/%E5%BA%94%E7%94%A8%E7%B1%BB/</link>
         <description>Recent content in 应用类 on 羊毛社区</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>羊毛社区</copyright><atom:link href="https://2060.net.cn/categories/%E5%BA%94%E7%94%A8%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>羊毛社区</copyright><atom:link href="http://localhost:1313/categories/%E5%BA%94%E7%94%A8%E7%B1%BB/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
